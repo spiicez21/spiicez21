@@ -157,6 +157,6 @@ Creating immersive digital experiences
 Code • Design • Build • Repeat
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff7d19,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff7d19,45:ff7d19"/>
 
 </div>
