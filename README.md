@@ -101,7 +101,7 @@ const yuga = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=spiicez21&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c7c7c7&icon_color=ff7d19"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiicez21&theme=github-compact&hide_border=true&bg_color=00000000&color=b8b8b8&line=ff7d19&point=ffffff"/>
 
 </td>
 
@@ -112,9 +112,6 @@ const yuga = {
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=spiicez21&theme=github-compact&hide_border=true&bg_color=00000000&color=b8b8b8&line=ff7d19&point=ffffff"/>
-
 </div>
 
 ---
