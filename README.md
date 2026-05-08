@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Yuga%20Bharathi%20Jaisankar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:000000,100:ff7d19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Yuga%20Bharathi%20Jaisankar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=45:ff7d19,100:ff7d19"/>
 
 <br/>
 
