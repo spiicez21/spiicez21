@@ -21,7 +21,7 @@ Building immersive systems, cinematic FiveM experiences, and modern digital inte
 </a>
 
 <a href="yugabharathi21.netlify.app">
-  <img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=website&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/sodaputtiplayz21">
@@ -97,17 +97,23 @@ const yuga = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spiicez21&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c7c7c7&icon_color=ff7d19"/>
+<table>
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=spiicez21&theme=github-dark-dimmed&hide_border=true&border_radius=3&ring=ff7d19&fire=ff7d19&currStreakLabel=ffb067"/>
+<img src="https://github-readme-stats.vercel.app/api?username=spiicez21&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c7c7c7&icon_color=ff7d19"/>
 
-</div>
+</td>
 
-<br/>
+<td width="50%">
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=spiicez21&theme=github-dark-dimmed&hide_border=true&border_radius=3&ring=ff7d19&fire=ff7d19&currStreakLabel=ffb067"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=spiicez21&theme=github-compact&hide_border=true&bg_color=00000000&color=b8b8b8&line=ff7d19&point=ffffff"/>
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=spiicez21&theme=github-compact&hide_border=true&bg_color=00000000&color=b8b8b8&line=ff7d19&point=ffffff"/>
 
 </div>
 
