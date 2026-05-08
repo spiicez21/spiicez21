@@ -1,34 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=180&section=header&text=Yuga%20Bharathi%20Jaisankar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Yuga%20Bharathi%20Jaisankar&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:000000,100:ff7d19"/>
+
+<br/>
 
 # Full Stack Developer • FiveM Developer • Game Designer
 
-<p align="center">
-  Building immersive systems, modern interfaces, and cinematic digital experiences.
+<p width="80%">
+Building immersive systems, cinematic FiveM experiences, and modern digital interfaces with a clean mono-orange aesthetic.
 </p>
 
-<p align="center">
-  <a href="https://github.com/spiicez21">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_ID">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://badges.pufler.dev/visits/spiicez21/spiicez21?color=black&logo=github"/>
-  <img src="https://badges.pufler.dev/repos/spiicez21?color=black&logo=github"/>
-  <img src="https://badges.pufler.dev/years/spiicez21?color=black&logo=github"/>
-  <img src="https://badges.pufler.dev/commits/monthly/spiicez21?color=black&logo=github"/>
-</p>
+<a href="https://github.com/spiicez21">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yugabharathi21/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="yugabharathi21.netlify.app">
+  <img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/sodaputtiplayz21">
+  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://badges.pufler.dev/visits/spiicez21/spiicez21?color=black&logo=github"/>
+<img src="https://badges.pufler.dev/repos/spiicez21?color=black&logo=github"/>
+<img src="https://badges.pufler.dev/years/spiicez21?color=black&logo=github"/>
+<img src="https://badges.pufler.dev/commits/monthly/spiicez21?color=black&logo=github"/>
 
 </div>
 
@@ -38,24 +44,24 @@
 
 ```ts
 const yuga = {
-  title: "Full Stack Developer",
-  
-  specializations: [
+  role: "Full Stack Developer",
+
+  expertise: [
     "FiveM Development",
     "Modern Web Applications",
-    "UI / UX Systems",
-    "Game Interfaces",
-    "3D Design"
+    "Game UI Systems",
+    "Creative Interfaces",
+    "3D Workflows"
   ],
 
-  currentlyBuilding: [
-    "Custom FiveM experiences",
-    "Scalable backend systems",
-    "Immersive UI interactions"
+  currentFocus: [
+    "Custom FiveM ecosystems",
+    "Scalable backend architecture",
+    "Immersive user experiences"
   ],
 
   philosophy:
-    "Minimal aesthetics. Maximum experience."
+    "Minimal aesthetics • Maximum experience"
 }
 ```
 
@@ -63,47 +69,17 @@ const yuga = {
 
 # Focus Areas
 
-<table>
-<tr>
+<div align="center">
 
-<td width="33%">
+| Web Development | FiveM Development | Creative Design |
+|:---:|:---:|:---:|
+| MERN Stack | QBCore | UI / UX Design |
+| Next.js | ESX Frameworks | Blender Modeling |
+| TypeScript | Custom HUDs | Motion Concepts |
+| REST APIs | Server Scripts | Creative Assets |
+| Streamlit Apps | Optimization | Interface Systems |
 
-## Web Development
-
-- MERN Stack  
-- Next.js  
-- TypeScript  
-- REST APIs  
-- Streamlit Apps  
-
-</td>
-
-<td width="33%">
-
-## FiveM Systems
-
-- QBCore  
-- ESX Frameworks  
-- HUD Development  
-- Custom Scripts  
-- Optimization  
-
-</td>
-
-<td width="33%">
-
-## Creative Design
-
-- UI / UX  
-- Blender  
-- Motion Concepts  
-- Game Assets  
-- Interface Design  
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -111,7 +87,7 @@ const yuga = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,lua,python,react,nextjs,tailwind,nodejs,express,mongodb,docker,git,azure,figma,blender&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=js,ts,lua,python,react,nextjs,tailwind,nodejs,express,mongodb,docker,git,azure,figma,blender&theme=dark&perline=8"/>
 
 </div>
 
@@ -121,15 +97,17 @@ const yuga = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=spiicez21&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=spiicez21&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c7c7c7&icon_color=ff7d19"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=spiicez21&theme=github-dark-dimmed&hide_border=true&border_radius=2"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=spiicez21&theme=github-dark-dimmed&hide_border=true&border_radius=3&ring=ff7d19&fire=ff7d19&currStreakLabel=ffb067"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiicez21&theme=github-compact&hide_border=true&bg_color=00000000&color=9f9f9f&line=ffffff&point=ffffff"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=spiicez21&theme=github-compact&hide_border=true&bg_color=00000000&color=b8b8b8&line=ff7d19&point=ffffff"/>
 
 </div>
 
@@ -139,7 +117,7 @@ const yuga = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=spiicez21&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=spiicez21&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
 
 </div>
 
@@ -147,12 +125,16 @@ const yuga = {
 
 # Current Status
 
+<div align="center">
+
 ```txt
-Building immersive FiveM ecosystems
-Designing cinematic user interfaces
+Building cinematic FiveM ecosystems
+Designing sleek modern interfaces
 Exploring scalable architectures
-Creating clean digital experiences
+Creating immersive digital experiences
 ```
+
+</div>
 
 ---
 
@@ -172,6 +154,6 @@ Creating clean digital experiences
 Code • Design • Build • Repeat
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff7d19,100:000000"/>
 
 </div>
